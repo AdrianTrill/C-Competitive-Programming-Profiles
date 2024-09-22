@@ -1,4 +1,3 @@
---
 
 ## C++ Competitive Programming Profiles ##
 
@@ -9,5 +8,4 @@ Explore my profiles across different competitive programming platforms:
 - **[Beecrowd](https://judge.beecrowd.com/en/users/statistics/402555)**: Engaging with a wide variety of problem-solving topics.
 - **[Infoarena](https://www.infoarena.ro/utilizator/Adrian.Trill?action=stats)**: Active in Romanian competitive programming.
 - **[SPOJ](https://www.spoj.com/myaccount/)**: Solving optimization and data structure-focused problems.
-- 
---
+  
